@@ -248,3 +248,12 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1709.535047 seconds.
+  path: Assets/yukidamage_movesnoball.cs
+  artifactKey: Guid(2a711a24ec94082438a1f4c0498bfd6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/yukidamage_movesnoball.cs using Guid(2a711a24ec94082438a1f4c0498bfd6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36f551a28b3c06a5d54282ef1edce6bc') in 0.005637 seconds 
+  Import took 0.008606 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
