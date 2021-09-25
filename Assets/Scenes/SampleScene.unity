@@ -218,7 +218,7 @@ GameObject:
   - component: {fileID: 155231569}
   - component: {fileID: 155231568}
   m_Layer: 0
-  m_Name: EventSystem
+  m_Name: HappyHunting_EventSystem
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -699,7 +699,7 @@ GameObject:
   - component: {fileID: 999647103}
   - component: {fileID: 999647104}
   m_Layer: 0
-  m_Name: Square
+  m_Name: HappyHunting_BlackSquare
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1015,7 +1015,7 @@ GameObject:
   - component: {fileID: 1207853274}
   - component: {fileID: 1207853273}
   m_Layer: 5
-  m_Name: Text
+  m_Name: HappyHunting_FindThemText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1543,7 +1543,7 @@ GameObject:
   - component: {fileID: 2029453062}
   - component: {fileID: 2029453061}
   m_Layer: 5
-  m_Name: Canvas
+  m_Name: HappyHunting_Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
