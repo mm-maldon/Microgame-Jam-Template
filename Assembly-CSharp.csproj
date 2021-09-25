@@ -56,11 +56,13 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\HappyHunting\HappyHunting_Crosshair.cs" />
     <Compile Include="Assets\Scripts\GameController\GameController.cs" />
     <Compile Include="Assets\Scripts\GameController\GameControllerDevelop.cs" />
     <Compile Include="Assets\Scripts\GameController\SliderController.cs" />
+    <Compile Include="Assets\Scripts\HappyHunting\HappyHunting_Citizen.cs" />
     <Compile Include="Assets\Scripts\GameController\Singleton.cs" />
-    <Compile Include="Assets\Scripts\Citizen\HappyHunting_Citizen.cs" />
+    <Compile Include="Assets\Scripts\HappyHunting\HappyHunting_World.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\How to use the Game Controller.txt" />
