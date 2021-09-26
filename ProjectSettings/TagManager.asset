@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Wall
+  - Citizen
   layers:
   - Default
   - TransparentFX
@@ -11,16 +13,16 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Layer6
+  - Layer7
+  - Layer8
+  - Layer9
+  - Layer10
+  - Layer11
+  - Layer12
+  - Layer13
+  - Layer14
+  - Layer15
   - 
   - 
   - 
